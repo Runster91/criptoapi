@@ -1,0 +1,39 @@
+
+
+*{
+
+    padding: 0;
+
+    margin: 0;
+
+    box-sizing: border-box;
+
+}
+
+ 
+
+#mostrar{
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+ 
+
+.card{
+
+    padding: 20px;
+
+    width: 200px;
+
+    border: 2px solid black;
+
+    overflow: hidden;
+
+}
